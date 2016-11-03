@@ -28,13 +28,14 @@ Curated list of amazingly awesome open source chrome extensions. Feel free to co
 * [Code Now](https://github.com/ashish1294/code-now) - Instantly open your favorite IDE directly from browser.
 
 ## Fun
+* [Buzz Kill)(https://github.com/hartleybrody/buzzkill) - Remove political stories from your facebook news feed.
 
 ## News and Weather
 
 ## Photos
 
 ## Productivity
-* [AutoLogout](https://github.com/v-adhithyan/AutoLogout) - Auto Logout from popular social networking sites after 10 minutes.
+* [Auto Logout](https://github.com/v-adhithyan/AutoLogout) - Auto Logout from popular social networking sites after 10 minutes.
 
 ## Search Tools
 
