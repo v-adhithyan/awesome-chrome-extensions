@@ -28,6 +28,7 @@ Curated list of amazingly awesome open source chrome extensions. Feel free to co
 ## Developer Tools
 * [Code Now](https://github.com/ashish1294/code-now) - Instantly open your favorite IDE directly from browser.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on github.com efficiently.
+* [Refined Github](https://github.com/sindresorhus/refined-github) - Simplify github interface and add useful features.
 
 ## Fun
 * [Buzz Kill](https://github.com/hartleybrody/buzzkill) - Remove political stories from your facebook news feed.
