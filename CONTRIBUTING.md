@@ -10,5 +10,6 @@
 * Link to Github repo must be present.
 * Keep descriptions short, simple and descriptive.
 * Start description with a capital letter and end with a full stop.
+* Make sure that suggested extension is working.
 
 Thanks for your suggestion and your effort to make this repo more awesome.
