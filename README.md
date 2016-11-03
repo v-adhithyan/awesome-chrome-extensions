@@ -10,12 +10,12 @@ Curated list of amazingly awesome open source chrome extensions. Feel free to co
 - [By Google](#by-google)
 - [Developer Tools](#developer-tools)
 - [Fun](#fun)
-- [News & Weather](#news-weather)
+- [News and Weather](#news-and-weather)
 - [Photos](#photos)
 - [Productivity](#productivity)
 - [Search Tools](#search-tools)
 - [Shopping](#shopping)
-- [Social & Communication](#social-communication)
+- [Social and Communication](#social-and-communication)
 - [Sports](#sports)
 
 ## Accessibility
@@ -29,7 +29,7 @@ Curated list of amazingly awesome open source chrome extensions. Feel free to co
 
 ## Fun
 
-## News & Weather
+## News and Weather
 
 ## Photos
 
@@ -40,7 +40,7 @@ Curated list of amazingly awesome open source chrome extensions. Feel free to co
 
 ## Shopping
 
-## Social & Communication
+## Social and Communication
 
 ## Sports
 
