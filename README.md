@@ -23,6 +23,7 @@ Curated list of amazingly awesome open source chrome extensions. Feel free to co
 ## Blogging
 
 ## By Google
+* [Chrome App Samples](https://github.com/GoogleChrome/chrome-app-samples) - All chrome extension samples by google.
 
 ## Developer Tools
 * [Code Now](https://github.com/ashish1294/code-now) - Instantly open your favorite IDE directly from browser.
