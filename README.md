@@ -28,7 +28,7 @@ Curated list of amazingly awesome open source chrome extensions. Feel free to co
 * [Code Now](https://github.com/ashish1294/code-now) - Instantly open your favorite IDE directly from browser.
 
 ## Fun
-* [Buzz Kill)(https://github.com/hartleybrody/buzzkill) - Remove political stories from your facebook news feed.
+* [Buzz Kill](https://github.com/hartleybrody/buzzkill) - Remove political stories from your facebook news feed.
 
 ## News and Weather
 
